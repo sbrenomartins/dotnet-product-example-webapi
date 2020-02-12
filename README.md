@@ -7,3 +7,5 @@
 > `/products`
 * É feito o cadastro e listagem (CR do CRUD) de produtos e categorias, além do "link" entre um produto e sua categoria.
 * Foi utilizado o Entity Framework InMemory para "armazenar" os dados em memória.
+
+> Obs.: Desenvolvido acompanhando o tutorial do André Baltieri, em seu canal no Youtube.
